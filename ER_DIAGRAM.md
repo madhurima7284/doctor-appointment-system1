@@ -40,3 +40,4 @@ erDiagram
     varchar status
     varchar reason
   }
+<!-- ER diagram documentation update -->
